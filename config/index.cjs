@@ -100,5 +100,5 @@ const USER_CONFIG = {
 
 }
 
-module.exports = USER_CONFIG
+module.exports = USER_CONFIG,
 TIAN_API.key='6164d804c076e60c3f2b6b4094acaa5c'
