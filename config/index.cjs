@@ -30,7 +30,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'odVvL53bgw0J-TKb8-pyTzY3miK4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'aHgqs7CcFEbmRncpX6Bcg_NNtDOe9wh3iC_u-5ltXVA',
+      useTemplateId: 'vYHqepoMFxd6c8P8CA65X_cuOpzmJrxZdESUZZPVwps',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '6-26',
       festivals: [
@@ -49,7 +49,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2024-11-13' },
+        { keyword: 'love_day', date: '2024-11-5' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
         { keyword: 'bir_day1', date: '2001-01-27' },
@@ -64,7 +64,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'x',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'aHgqs7CcFEbmRncpX6Bcg_NNtDOe9wh3iC_u-5ltXVA',
+      useTemplateId: 'vYHqepoMFxd6c8P8CA65X_cuOpzmJrxZdESUZZPVwps',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-25',
       festivals: [
@@ -83,7 +83,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2024-11-13' },
+        { keyword: 'love_day', date: '2024-11-5' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
         { keyword: 'bir_day1', date: '2001-01-27' },
