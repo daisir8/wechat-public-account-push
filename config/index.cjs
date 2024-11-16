@@ -10,7 +10,7 @@
     // 天行API KEY，如果使用天行API则需要填写此项
     key: '6164d804c076e60c3f2b6b4094acaa5c'
   
-  },
+  }
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
