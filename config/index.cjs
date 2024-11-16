@@ -8,8 +8,8 @@
 
  TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
-    key: '6164d804c076e60c3f2b6b4094acaa5c',
-    offset: 0
+    key: '6164d804c076e60c3f2b6b4094acaa5c'
+    
   }
 const USER_CONFIG = {
 
