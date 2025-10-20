@@ -24,7 +24,7 @@ const USER_CONFIG =
 	"USERS": [{
 		"name": "小竹",
 		"id": "oUcwA2GItAzBzrGQ_L124NXV3-YU",
-		"useTemplateId": "w63EcQatMRpy2hRJLkNJgqjkVp6IbC64iYkmTVvO2ek",
+		"useTemplateId": "jXcvDcCZa7rUkwePV3Xxd-SVdS0oqMt5Wp4gvW4aAR8",
 		"province": "福建",
 		"city": "晋江",
 		"horoscopeDate": "02-14",
